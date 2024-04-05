@@ -1,4 +1,4 @@
-# Omni-Kernel Network for Image Restoration
+# Omni-Kernel Network for Image Restoration [AAAO-24]
 
 
 [![](https://img.shields.io/badge/OKNet-paper-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27907)     [![](https://img.shields.io/badge/OKNet-Appendix-blue.svg)](https://drive.google.com/file/d/1IVXjApjDWJiLc434d70cOhBpNk9UsyFp/view?usp=sharing)
@@ -21,7 +21,18 @@ python setup.py install
 cd ..
 ~~~
 
-
+## Citation
+~~~
+@inproceedings{cui2024omni,
+  title={Omni-Kernel Network for Image Restoration},
+  author={Cui, Yuning and Ren, Wenqi and Knoll, Alois},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={2},
+  pages={1426--1434},
+  year={2024}
+}
+~~~
 
 
 ## Contact
