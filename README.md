@@ -1,7 +1,9 @@
 # Omni-Kernel Network for Image Restoration [AAAI-24]
 
 
-[![](https://img.shields.io/badge/OKNet-paper-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27907)     [![](https://img.shields.io/badge/OKNet-Appendix-blue.svg)](https://drive.google.com/file/d/1IVXjApjDWJiLc434d70cOhBpNk9UsyFp/view?usp=sharing)
+[![](https://img.shields.io/badge/OKNet-paper-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27907)    
+
+<!--[![](https://img.shields.io/badge/OKNet-Appendix-blue.svg)](https://drive.google.com/file/d/1IVXjApjDWJiLc434d70cOhBpNk9UsyFp/view?usp=sharing)-->
 
 
 
