@@ -23,6 +23,8 @@ python setup.py install
 cd ..
 ~~~
 
+ITS FLOPs: 39.67G, Params: 4.72M
+
 ## Citation
 ~~~
 @inproceedings{cui2024omni,
