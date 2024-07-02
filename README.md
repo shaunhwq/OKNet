@@ -25,6 +25,8 @@ cd ..
 
 ITS FLOPs: 39.67G, Params: 4.72M
 
+## [Images](https://drive.google.com/drive/folders/1FuaHw5Wr9PTSKAKn2qEuE-IN1Ye-O8Xj?usp=sharing)
+
 ## Citation
 ~~~
 @inproceedings{cui2024omni,
